@@ -5,10 +5,10 @@ The first aspect of healthcare is understanding what disease a patient is suffer
 
 ## Working
 Our current prototype model relies mainly on behavioural data points to predict the likelihood of having Dementia such as: 
--Physical_Activity	
--Depression_Status
--Nutrition_Diet
--Sleep_Quality
+1. Physical_Activity
+2. Depression_Status
+3. Nutrition_Diet
+4. Sleep_Quality
 
 ## Why Behavioural Data?
 Behavioural data is a powerful source of information that, when leveraged through machine learning (ML) models, proves to be highly effective in predicting diseases. Integrating big data analytics and ML algorithms allows for identifying intricate patterns and anomalies within an individual's behaviour. Daily habits, including food choices, respiration rate, and social behaviours, provides a holistic understanding of a person's health
@@ -19,13 +19,13 @@ Research indicates that ML applications can predict conditions such as diabetes,
 ## Example of Practical Usage
 Consider for example a patient A wishes to test themselves for Dementia. For this they will have to undergo the following:
 
-Physical examination and laboratory tests. 
-Cognitive testing. 
-Mini-Mental Status Examination (MMSE) 
-Alzheimer's Disease Assessment Scale-Cognitive (ADAS-Cog) 
-Neuropsychological Testing. 
-Radiological tests. 
-Brain imaging techniques.
+1. Physical examination and laboratory tests. 
+2. Cognitive testing.
+3. Mini-Mental Status Examination (MMSE) 
+4. Alzheimer's Disease Assessment Scale-Cognitive (ADAS-Cog) 
+5. Neuropsychological Testing. 
+6. Radiological tests. 
+7. Brain imaging techniques.
 
 These tests are expensive and time-consuming and in the end if the patient tests negative the entire process is not productive.
 
