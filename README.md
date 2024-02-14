@@ -55,5 +55,5 @@ Then we added user input so it can provide a direct prediction based on likeliho
 
 # Credits
 Khush Trivedi
-Dhruv kapur
+Dhruv Kapur
 Samyak Bhansali
