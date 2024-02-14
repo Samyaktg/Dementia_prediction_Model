@@ -29,7 +29,7 @@ Brain imaging techniques.
 
 These tests are expensive and time-consuming and in the end if the patient tests negative the entire process is not productive.
 
-###Now Consider that patient A uses our app, 
+### Now Consider that patient A uses our app, 
 all they need to do is answer simple questions and undergo a simple inexpensive blood test.
 Through this data our app will provide the likelihood of Dementia the patient has and then the patient can further decide to undergo proper tests.
 Thus the patient saves time and resources and so does the lab, which can cater to more patients!
@@ -55,5 +55,7 @@ Then we added user input so it can provide a direct prediction based on likeliho
 
 # Credits
 Khush Trivedi
+
 Dhruv Kapur
+
 Samyak Bhansali
