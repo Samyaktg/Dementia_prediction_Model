@@ -1,5 +1,5 @@
 # Dementia Prediction Model
-Made for Datathon 2.0
+Made for Datathon 2.O
 ## Abstract
 The first aspect of healthcare is understanding what disease a patient is suffering from.To do this the patient must undergo multiple different tests making it a time-consuming and expensive process overall This is where our Model steps in, it uses data from simple & affordable tests to quickly calculate the likelihood of having a disease and suggest further actions. The best part is that this can be used by either the lab or a normal user and provides a list of possible threats.
 
@@ -40,6 +40,7 @@ Thus the patient saves time and resources and so does the lab, which can cater t
 ### Dataset 
 we used the dementia_patients_health_data.csv from Kaggle. This dataset consists of multiple features which are used for predictions.
 From this, we chose the features relating to Behavioural data.
+It had 23 unique and measured data points from various medical tests and surveys.
 
 ### Model
 We used CatBoost Classifier since we were dealing with a lot of categorical variables, alternatively, we could have used encoding but it would have been a lengthy process, we scaled our data and imputed it using simple imputer and built our pipeline using functions and for loops. Finally, we used stratified folds to increase model accuracy and conducted SHAP analysis to check for impact of features.
