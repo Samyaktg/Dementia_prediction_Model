@@ -55,8 +55,8 @@ Then we added user input so it can provide a direct prediction based on likeliho
 4. finally the model will provide you with an output as well as provide an output csv file
 
 # Credits
+Samyak Bhansali
+
 Khush Trivedi
 
 Dhruv Kapur
-
-Samyak Bhansali
